@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi, I'm Praveen P 👋
 
-<!--
-**praveen-p16/praveen-p16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (Cyber Security)
+🏫 B.S. Abdur Rahman Crescent Institute of Science and Technology
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+• Passionate about Cybersecurity and Information Security
+• Interested in SOC Analysis, Network Security, and Penetration Testing
+• Building real-world cybersecurity projects using Python
+• Continuously learning Linux, Networking, and Security Tools
+
+## Technical Skills
+
+• Python
+• C++
+• SQL
+• Git & GitHub
+• Linux
+• Networking
+• Cybersecurity Fundamentals
+
+## Projects
+
+🔐 Password Security Assessment System
+
+• Password strength analysis
+• Breach detection
+• Password policy validation
+• Entropy calculation
+• Secure password recommendations
+
+
+## Currently Learning
+
+- SOC Operations
+- SIEM
+- Penetration Testing
+- Network Security
+- Incident Response
+
+## Connect with Me
+
+LinkedIn: (https://www.linkedin.com/in/praveen-p-128553335)
+
+⭐ Thanks for visiting my profile!
