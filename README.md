@@ -16,11 +16,17 @@
 ## Technical Skills
 
 • Python
+
 • C++
-• SQL
+
+• MySQL
+
 • Git & GitHub
+
 • Linux
+
 • Networking
+
 • Cybersecurity Fundamentals
 
 ## Projects
@@ -28,9 +34,13 @@
 🔐 Password Security Assessment System
 
 • Password strength analysis
+
 • Breach detection
+
 • Password policy validation
+
 • Entropy calculation
+
 • Secure password recommendations
 
 
