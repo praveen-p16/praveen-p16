@@ -6,8 +6,11 @@
 ## About Me
 
 • Passionate about Cybersecurity and Information Security
+
 • Interested in SOC Analysis, Network Security, and Penetration Testing
+
 • Building real-world cybersecurity projects using Python
+
 • Continuously learning Linux, Networking, and Security Tools
 
 ## Technical Skills
