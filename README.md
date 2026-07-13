@@ -1,6 +1,7 @@
 # Hi, I'm Praveen P 👋
 
 🎓 B.Tech CSE (Cyber Security)
+
 🏫 B.S. Abdur Rahman Crescent Institute of Science and Technology
 
 ## About Me
